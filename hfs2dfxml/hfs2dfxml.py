@@ -22,7 +22,7 @@ from hashlib import md5
 from hashlib import sha1
 
 # Import Python DFXML Bindings
-sys.path.append('dfxml/python')
+sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'dfxml', 'python'))
 import Objects as DFXML
 
 
