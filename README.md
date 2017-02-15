@@ -34,7 +34,6 @@ The following directions were tested on BitCurator 1.5.11. The following install
   * `git clone https://github.com/simsong/dfxml/`
   * `cd ../tests`
   * `git clone https://github.com/dfxml-working-group/dfxml_schema`
-  * To run, you should be in the `hfs2dfxml/hfs2dfxml` directory
 
 ## How to use
 To generate DFXML for an HFS-formatted volume, navigate to the hfs2dfxml directory and use:
